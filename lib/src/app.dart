@@ -5,7 +5,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: WebViewContainer('https://vragger.com', 'Vragger'),
+      home: WebViewContainer('https://whitsey.sjretail.store', 'Whitsey'),
     );
   }
 }
