@@ -1,3 +1,7 @@
+Note: I have create another repo where you can convert your website into React Native App by just changing the url of App
+https://github.com/PuneetShivaay/Convert-Website-Into-React-Mobile-Mobile-App 
+
+
 # Convert-Website-into-App / Flutter App
 You can convert your website into app. You need to just simply download this code and update the url to your website url.
 To update the URL navigate to lib>src>app.dart 
